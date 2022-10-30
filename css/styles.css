@@ -170,7 +170,6 @@ a.current {
 /* M A I N */
 
 .hero {
-    background-color: var(--bg-dark);
     text-align: center;
     padding-top: 200px;
     padding-bottom: 200px;

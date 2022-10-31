@@ -466,7 +466,7 @@ img {
     color: var(--white-color);
 }
 .social-item-footer:not(:last-child) {
-    margin-right: 10px;
+    margin-right: 10px; 
 }
 
 .social-list-footer {

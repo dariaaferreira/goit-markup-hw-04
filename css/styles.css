@@ -470,15 +470,6 @@ img {
     display: flex;
 }
 
-.social-link-footer {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    width: 44px;
-    height: 44px;
-    fill: var(--white-color);
-}
-
 .social-item-footer {
     background: rgba(255, 255, 255, 0.1);
     border-radius: 50%;
@@ -488,6 +479,15 @@ img {
 
 .social-item-footer:not(:last-child) {
     margin-right: 10px; 
+}
+
+.social-link-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    fill: var(--white-color);
 }
 
 .social-link-footer:hover,
